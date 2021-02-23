@@ -1,0 +1,73 @@
+<?php 
+/* Login language file
+*All the login language are used here
+*/
+
+$lang['login'] = 'Login';
+$lang['login_behandlare'] = 'Login - Behandlare';
+$lang['username'] = 'Username';
+$lang['password'] = 'Lösenord';
+$lang['error_authentication_failed'] = 'Authentication Failed';
+$lang['message_logged_out'] = 'Logged Out successfully!';
+$lang['reset_password'] = 'Reset Password';
+$lang['registered_email'] = 'Enter Registered Email';
+$lang['remembered_password'] = 'Remember password?';
+$lang['reset_password_mail'] = 'We have sent an email to your registered email. Follow the instructions to reset the password';
+$lang['check_username'] = 'Email ID not found or Check your registered email id';
+$lang['reset_message'] = 'Forgot or Missed your password don\'t worry {clickhere} to reset your password. <br> Copy to reset the link : {link}';
+$lang['update_password_relogin'] = 'Dear User your password has been updated successfully. Retry to login now!';
+$lang["firstname"]   = "First name";
+$lang["lastname"]   = "Last name";
+$lang['keep_me_sign_in'] = 'keep me logged in';
+// $lang['phone'] = 'Contact No';
+// $lang['personal_id'] = 'Personal Id';
+$lang['profile_updated'] = 'Your profile has been updated!';
+$lang["email_already_taken"]   = "This Email id is already taken! Try some other mail id";
+$lang["personal_id_unique"]   = "The Personal Id is already Exist!";
+$lang['password_wrong'] = 'Your old password is wrong! please try again';
+$lang['fullname'] = 'Name';
+$lang['new_password'] = 'New Password';
+$lang['retype_password'] = 'Enter a New Password';
+$lang['change_password'] = 'Change password';
+$lang['i_remember_now'] = 'I think I remember now!';
+$lang['update_password_relogin'] = 'Nytt lösenord uppdaterat, försök att logga in';
+$lang['logout'] = 'Log out';
+$lang['submit'] = 'Submit';
+$lang[''] = '';
+
+$lang['profile'] = 'Profile';
+$lang['personal_information'] = 'Personal information';
+$lang['edit'] = 'Edit';
+$lang['you_can_update_password'] = 'Update your password.';
+$lang['clickhere'] = 'Click Here';
+$lang['email'] = 'E-Mail';
+$lang['phone'] = 'Phone No.';
+$lang['personal_id'] = 'Personal No.';
+$lang['profile_pic'] = 'Profile Picture';
+$lang['back'] = 'Back';
+$lang['update_password'] = 'Update Password';
+$lang['error'] = 'Error !';
+$lang['success'] = 'Success !';
+$lang['forgot_password'] = 'Forgot your Password ?';
+$lang['reset'] = 'Reset';
+$lang['old_password'] = 'Old Password';
+$lang['password'] = 'Password';
+$lang['confirm'] = 'Confirm Password';
+$lang['all_meetings'] = 'All Meetings';
+$lang['language']  = 'Language';
+$lang['english'] = 'English (EN)';
+$lang['swedish'] = 'Swedish (SE)';
+$lang['enter_otp'] = 'Enter OTP';
+$lang['resend_otp'] = 'Resend OTP';
+$lang['otp_number'] = 'OTP number';
+$lang['please_check'] = 'Please allow a couple of minutes for OTP code to arrive. Check your SMS and mail and use the code received to complete login';
+$lang['recheck_otp'] = 'Verification Failed! Please re-type your OTP';
+$lang['still_attempt'] = 'You still have %d more attempts. Please check you registered mobile or email id to get your otp'; 
+$lang['all_attempt_over'] = 'You have used all your attempts!';
+$lang['checkgua'] = 'You are using a web browser that is not supported by the system. Please use one of the following web browsers instead: Chrome, Firefox, Safari, Opera';
+$lang['note'] = 'Note';
+$lang['check_your_bankid_app'] = 'Please check your BankID app to login';
+$lang['click_to_open']  = 'Click to Open BankID App';
+$lang['login_failed']  = 'Login Failed. Please try again';
+$lang['personal_id_format'] = 'Personal No. Format (YYYYMMDDNNNN)';
+$lang['login_by_bankid'] = 'Login By Bankid';

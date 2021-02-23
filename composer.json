@@ -1,0 +1,7 @@
+{
+    "require": {
+        "dimafe6/bank-id": "^2.0",
+        "nicklasw/bankid-sdk": "^1.1",
+        "symfony/validator": "^5.1"
+    }
+}

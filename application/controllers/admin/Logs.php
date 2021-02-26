@@ -64,7 +64,7 @@ class Logs extends Admin_Controller
                 $nestedData['from'] = $post->from;
                 $nestedData['to'] = $post->to;
 
-                $sent = $post->send ? 'SMS Sent':'Not Sent';
+                $sent = $post->send ? 'Mail Sent':'Not Sent';
                 $color = $post->send ? 'success':'danger';
                 $nestedData['send'] = '<span class="badge badge-'.$color.'">'.$sent.'</span>';
 
